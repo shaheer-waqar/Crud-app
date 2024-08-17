@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "shaheerwaqar",
+      "username": "shaeer.021",
+      "email": "shaheerwaqar02@gmail.com",
+      "phone": "03002417505",
+      "id": 1
+    },
+    {
+      "name": "tony stark",
+      "username": "ironman",
+      "email": "tonystark@gmail.com",
+      "phone": "030241558904",
+      "id": 2
+    },
+    {
+      "name": "Abeer Mazher",
+      "username": "abeermazher",
+      "email": "abeermazher10@gmail.com",
+      "phone": "0302010039",
+      "id": 3
+    },
+    {
+      "name": "Ronaldo",
+      "username": "Cr7",
+      "email": "ronaldocr7@gmail.com",
+      "phone": "03002458719",
+      "id": 4
+    },
+    {
+      "name": "Thor",
+      "username": "thunder",
+      "email": "thor@gmail.com",
+      "phone": "03004421882",
+      "id": 5
+    }
+  ]
+}
